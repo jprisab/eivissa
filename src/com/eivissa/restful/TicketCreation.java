@@ -95,7 +95,7 @@ public class TicketCreation {
 			arException.printStackTrace();
 		}
 
-		// Hier Einbauen das eche TicketID gelesen wird und in Rückgabe String
+		// Hier Einbauen das eche TicketID gelesen wird und in Rï¿½ckgabe String
 		// einbauen
 
 		return TicketID;
@@ -156,7 +156,7 @@ public class TicketCreation {
 	private Value getTicketImpactWeight(String strSearchParam) {
 		Value valResult = new Value(4000);
 		// if low: urgency/impact
-
+		//		4000
 		// if medium: urgency/impact
 
 		// if high: urgency/impact
